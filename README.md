@@ -7,7 +7,7 @@ Experienced software engineer with a passion for open source projects. Skilled i
 ### Open Source Contributions
 
 - [wwz](https://github.com/Hilsonxhero/wwz)
-- [ekasticsearhc driver](https://github.com/Hilsonxhero/laravel-elastic-vision)
+- [elasticsearch driver](https://github.com/Hilsonxhero/laravel-elastic-vision)
 - [php framework - hero](https://github.com/Hilsonxhero/hero)
 - [napoleon](https://github.com/Hilsonxhero/napoleon)
 - [hero shop ecommerce](https://github.com/Hilsonxhero/hero-shop)
