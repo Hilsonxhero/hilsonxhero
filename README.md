@@ -4,13 +4,13 @@
         I'm Amir.<br>
     Experienced software engineer with a passion for open source projects. Skilled in developing web applications using Vue, Front-end frameworks, Laravel, and Go. Proficient in the use of agile methodologies and collaborative tools like Git and Jira. Proactive problem solver with excellent communication skills and a track record of delivering high-quality code.
     <b></b><br><br>
-    <a href="https://www.linkedin.com/in/hilson-hero">
+    <a href="https://instagram.com/hilson.me">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn">
     </a>
-        <a href="">
+        <a href="mailto:hilsonxhero.me@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LeetCode">
     </a>
-    <a href="">
+    <a href="https://www.linkedin.com/in/hilson-hero">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaggle">
     </a>
 
