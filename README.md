@@ -49,9 +49,3 @@
 - [hero shop nuxt ecommerce ](https://github.com/Hilsonxhero/hero-ecommerce-nuxt)
 - [project management (volcano client)](https://github.com/Hilsonxhero/volcano-client)
 
-#
-
-- [About me](https://hilsonxhero.com/about)
-- [Contact me](https://hilsonxhero.com/contact)
-- [Portfolios](https://hilsonxhero.com/portfolios)
-- [Articles](https://hilsonxhero.com/articles)
